@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP TMJD4152NENLC
+D 1 Port RJ45 Through Hole 10/100 Base-T, AutoMDIX, Power over Ethernet (PoE)
+K
+F https://www.taoglas.com/datasheets/TMJD4152NENLC.pdf
+$ENDCMP
+#
+#End Doc Library
